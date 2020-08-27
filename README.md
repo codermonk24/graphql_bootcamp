@@ -1,1 +1,1 @@
-# graphql_bootcamp.  --- practise in progress
+# graphql_bootcamp. --- practise in progress
